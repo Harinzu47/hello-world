@@ -6,3 +6,5 @@ i am a noob programmer
 My algorythm and logical think is so weak
 
 Please help me to improve my skill!
+
+this is for learn a pull request
